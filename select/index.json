@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Paranoid (2009 Remaster)",
+  "base_artist": "Black Sabbath",
+  "createdAt": "2025-12-23T13:06:37.199807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paranoid Android",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_Paranoid_Android_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Think I'm Paranoid (2018 - Remaster)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/02_I_Think_I'm_Paranoid_(2018_-_Remaster)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paranoid Android",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_Paranoid_Android_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paranoid Android",
+      "artist": "Rockabye Baby!",
+      "has_synced": false,
+      "path": "select/04_Paranoid_Android_Rockabye_Baby!.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Paranoid Android",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/05_Paranoid_Android_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Paranoid",
+      "artist": "Ty Dolla $ign",
+      "has_synced": false,
+      "path": "select/06_Paranoid_Ty_Dolla_$ign.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Guess I'm Paranoid",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/07_I_Guess_I'm_Paranoid_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Think I'm Paranoid",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/08_I_Think_I'm_Paranoid_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Think I'm Paranoid",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/09_I_Think_I'm_Paranoid_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Think I'm Paranoid (Crystal Method Remix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/10_I_Think_I'm_Paranoid_(Crystal_Method_Remix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Think I'm Paranoid (Crystal Method)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/11_I_Think_I'm_Paranoid_(Crystal_Method)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Paranoid Android (Glastonbury 1997)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/12_Paranoid_Android_(Glastonbury_1997)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Paranoid Android (Jools Holland 1997)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/13_Paranoid_Android_(Jools_Holland_1997)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Paranoid Android (Live)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/14_Paranoid_Android_(Live)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Paranoid Android (Live)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/15_Paranoid_Android_(Live)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Prayer for the Paranoid (Electric Version)",
+      "artist": "Mojave 3",
+      "has_synced": false,
+      "path": "select/16_Prayer_for_the_Paranoid_(Electric_Version)_Mojave_3.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "11 - Paranoid Android",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/17_11_-_Paranoid_Android_Radiohead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Paranoid",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/pl_01_Paranoid_Black_Sabbath.txt"
+    }
+  ]
+}
